@@ -1,3 +1,1 @@
-# replication-testingfoo
-foo
-FOOOO
+# replication-testing
